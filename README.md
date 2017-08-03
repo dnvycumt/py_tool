@@ -1,2 +1,3 @@
 # py_tool
-tool written by python
+gen_sql:generate sql from csv file
+
