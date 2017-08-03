@@ -38,7 +38,11 @@ def read_csv():
     print('output/out.txt 生成成功')
     out.close()            
 
+def main():
+	read_csv()
+	os.system("pause")
+	
 #generate_sql()
-read_csv()
-os.system("pause")
+if __name__ == '__main__'
+	main()
 
